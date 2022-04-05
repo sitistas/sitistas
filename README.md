@@ -6,4 +6,3 @@
 - 💻 Also trying to sharpen my programming skills, I am mainly working with Python, C, & SQL
 - 📫 How to reach me: Connect with me in [LinkedIn](https://www.linkedin.com/in/sitistas/)!
 <!-- - 🏢 Looking for an internship in the Computer Engineering field, to sharpen my skills alongside my studies! -->
-- 😄 Pronouns: He, him, his
