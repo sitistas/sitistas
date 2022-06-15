@@ -7,6 +7,6 @@
 - Two cool projects that I have created as part of university courses are the following:
    - [Art Gallery app](https://github.com/sitistas/art-gallery-ECE_CK703-team18) for the Databases Course of my studies. Based on SQLite & Python.
    - [Web Publisher website](https://github.com/sitistas/ECE_CK802-team_18) for the course of Web Programming. Created using HTML, CSS, vanilla JS, Node.Js & some frameworks. It is currently deployed on Heroku and you can take a look at the final result [here!](https://web-project-team18.herokuapp.com/)
-- 📫 How to reach me: Connect with me in [LinkedIn](https://www.linkedin.com/in/sitistas/)!
+- 📫 How to reach me: Connect with me in [LinkedIn](https://www.linkedin.com/in/sitistas/) or send me an email at [konstantinos.sitistas@studentambassadors.com](konstantinos.sitistas@studentambassadors.com) for topics related to the Microsoft Learn Student Ambassadors events / community!
 <!-- - 🏢 Looking for an internship in the Computer Engineering field, to sharpen my skills alongside my studies!  
    Starting my thesis on NLP -->
