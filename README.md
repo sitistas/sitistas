@@ -10,3 +10,4 @@
 - 📫 How to reach me: Connect with me in [LinkedIn](https://www.linkedin.com/in/sitistas/) or send me an email at [konstantinos.sitistas@studentambassadors.com](mailto:konstantinos.sitistas@studentambassadors.com) for topics related to the Microsoft Learn Student Ambassadors events / community!
 <!-- - 🏢 Looking for an internship in the Computer Engineering field, to sharpen my skills alongside my studies!  
    Starting my thesis on NLP -->
+ 
