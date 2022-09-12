@@ -10,5 +10,5 @@
    - [Bus Information app](https://github.com/sitistas/bus_arrivals_application) for the course of Advanced Programming Techniques. What is cool about this is the workflows that I've created with my partner and not the end result, but it was nice to work with CI/CD.
 - 📫 How to reach me: Connect with me in [LinkedIn](https://www.linkedin.com/in/sitistas/) or send me an email at [konstantinos.sitistas@studentambassadors.com](mailto:konstantinos.sitistas@studentambassadors.com) for topics related to the Microsoft Learn Student Ambassadors events / community!
 <!-- - 🏢 Looking for an internship in the Computer Engineering field, to sharpen my skills alongside my studies!  
-   Starting my thesis on NLP -->
+   Starting my thesis on NLP  -->
  
