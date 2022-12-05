@@ -12,3 +12,4 @@
 <!-- - 🏢 Looking for an internship in the Computer Engineering field, to sharpen my skills alongside my studies!  
    Starting my thesis on NLP  -->
  
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/basaltshrunken46.png)
