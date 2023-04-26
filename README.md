@@ -2,7 +2,7 @@
 - 🌍 I am living in Patras, Greece
 - 🏫 I am currently studying Electrical & Computer Engineering at the University of Patras and I em expecting to graduate until the end of 2023
 - 🔭 I am a Beta Microsoft Learn Student Ambassador. Really proud to be part of this great community!
-- 🌱 Exploring the potential of Azure and cloud technologies
+- 🌱 Exploring the potential of Azure and cloud technologies.
 - 💻 Also trying to sharpen my programming skills, I am mainly working with Python, C, SQL, and Web Development (HTML, CSS, JS, Node.js, etc.)
 - Three cool projects that I have created as part of university courses are the following:
    - [Art Gallery app](https://github.com/sitistas/art-gallery-ECE_CK703-team18) for the Databases Course of my studies. Based on SQLite & Python.
@@ -14,3 +14,7 @@
  
 - Here you can see my progress on Cybersecurity fundamentals, in [TryHackMe.com](https://tryhackme.com/p/basaltshrunken46)
 ![TryHackMe Badge](http://tryhackme-badges.s3.amazonaws.com/basaltshrunken46.png)
+
+
+## **Don't forget to visit my blog, [AzurePilot.tech!](https://azurepilot.tech/)**
+[![AzurePilot Home Page](home.png)](https://azurepilot.tech/)
