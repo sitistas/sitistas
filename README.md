@@ -13,7 +13,7 @@
    Starting my thesis on NLP  -->
  
 - Here you can see my progress on Cybersecurity fundamentals, in [TryHackMe.com](https://tryhackme.com/p/basaltshrunken46)
-![TryHackMe Badge](http://tryhackme-badges.s3.amazonaws.com/basaltshrunken4.png)
+![TryHackMe Badge](http://tryhackme-badges.s3.amazonaws.com/basaltshrunken46.png)
 
 
 ## **Don't forget to visit my blog, [AzurePilot.tech!](https://azurepilot.tech/)**
