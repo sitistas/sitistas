@@ -16,5 +16,5 @@
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/basaltshrunken46.png)
 
 
-## **Don't forget to visit my blog, [AzurePilot.tech!](https://azurepilot.tech/)**
+## **Don't forget to visit my blog, [AzurePilot.tech!](http://azurepilot.tech/)**
 [![AzurePilot Home Page](home.png)](https://azurepilot.tech/)
