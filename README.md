@@ -4,7 +4,7 @@ If you are bored to read, just go to my [Linktree](https://linktr.ee/sitistas)
 
 - 🌍 I am living in Patras, Greece
 - 🏫 I am currently studying Electrical & Computer Engineering at the University of Patras.
-- 🔭 I am a Gold Microsoft Learn Student Ambassador. Really proud to be part of this great community! Check out my [Student Ambassador profile!](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/1546d3ac-4ed8-4977-a7d5-aca571a2486f)
+- 🔭 I am a Gold Microsoft Learn Student Ambassador. Really proud to be part of this great community! Check out my [Student Ambassador profile!](https://mvp.microsoft.com/en-US/studentambassadors/profile/1546d3ac-4ed8-4977-a7d5-aca571a2486f)
 - 🌱 Exploring the potential of Azure and cloud technologies.
 - 💻 Also trying to sharpen my programming skills, I am mainly working with Python, C, SQL, and Web Development (HTML, CSS, JS, Node.js, etc.)
 - Three cool projects that I have created as part of university courses are the following:
