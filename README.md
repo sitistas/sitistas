@@ -19,5 +19,5 @@ If you are bored to read, just go to my [Linktree](https://linktr.ee/sitistas)
 ![TryHackMe Badge](http://tryhackme-badges.s3.amazonaws.com/basaltshrunken46.png)
 
 
-## **Don't forget to visit my blog, [AzurePilot!](http://azurepilot.rocks/)**
-[![AzurePilot Home Page](home.png)](https://azurepilot.rocks/)
+## **Don't forget to visit my blog, [AzurePilot!](https://sitistas.github.io/azurepilot/)**
+[![AzurePilot Home Page](home.png)](https://sitistas.github.io/azurepilot/)
